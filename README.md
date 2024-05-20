@@ -1,0 +1,1 @@
+This Recipe Management System is a console-based application designed to help chefs manage their recipes efficiently. Users can log in, add new recipes, search for existing recipes, rate recipes, delete recipes, view recipe details, and print recipes to files.
