@@ -1,0 +1,29 @@
+[
+    {
+        "sifra_recepta": "MBQ657",
+        "email_korisnika": "nikolamaric@gmail.com",
+        "naziv_recepta": "torta",
+        "kategorija_recepta": "dezert",
+        "sastojci": [
+            "secer",
+            "kora"
+        ],
+        "koraci": [
+            "pomesati sastojke",
+            "ispeci koru"
+        ]
+    },
+    {
+        "sifra_recepta": "JZR846",
+        "email_korisnika": "stefangrahovac@gmail.com",
+        "naziv_recepta": "kiflice",
+        "kategorija_recepta": "pecivo",
+        "sastojci": [
+            "brasno",
+            "voda"
+        ],
+        "koraci": [
+            "pomesati satojke"
+        ]
+    }
+]

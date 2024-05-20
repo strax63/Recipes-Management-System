@@ -1,0 +1,8 @@
+Sifra: MBQ657
+Autor recepta: nikolamaric@gmail.com
+Naziv recepta: torta
+Kategorija recepta: dezert
+Sastojci: ['secer', 'kora']
+Koraci: ['pomesati sastojke', 'ispeci koru']
+Komentari: ['nikola maric: odlican recept', 'nikola maric: odlican recept ']
+Prosecna ocena: 8

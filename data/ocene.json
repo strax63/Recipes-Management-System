@@ -1,0 +1,28 @@
+[
+    {
+        "sifra_recepta": "MBQ657",
+        "korisnicko_ime": "nikolaa",
+        "ocena": [
+            8,
+            9,
+            5,
+            10
+        ],
+        "komentari": [
+            "nikola maric: odlican recept",
+            "nikola maric: odlican recept "
+        ]
+    },
+    {
+        "sifra_recepta": "JZR846",
+        "korisnicko_ime": "stefa",
+        "ocena": [
+            9,
+            8
+        ],
+        "komentari": [
+            "nikola maric: odlican recept",
+            "nikola maric: smanjiti temperaturu"
+        ]
+    }
+]
